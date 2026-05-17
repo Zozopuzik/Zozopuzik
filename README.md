@@ -94,7 +94,10 @@ End-to-end shop — catalog, cart, multi-step checkout, push notifications, blog
 
 **Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,ts,swift,swiftui,js&theme=dark&perline=12" alt="React, TypeScript, Swift, SwiftUI, JavaScript" />
+<img src="https://skillicons.dev/icons?i=swift,react,ts,js&theme=dark&perline=12" alt="Swift, React Native, TypeScript, JavaScript" />
+&nbsp;
+<img src="https://img.shields.io/badge/SwiftUI-0F62FE?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 
 **Web & backend**
 
@@ -102,7 +105,9 @@ End-to-end shop — catalog, cart, multi-step checkout, push notifications, blog
 
 **Tooling**
 
-<img src="https://skillicons.dev/icons?i=expo,figma,git,github,vscode,xcode&theme=dark&perline=12" alt="Expo, Figma, Git, GitHub, VS Code, Xcode" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark&perline=12" alt="Figma, Git, GitHub, VS Code" />
+&nbsp;
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
 
 **Also use regularly** &nbsp;·&nbsp; Stripe · RevenueCat · Superwall · OneSignal · AppsFlyer · TanStack Query · Zustand · MobX · Expo Router · OpenAI APIs
 
