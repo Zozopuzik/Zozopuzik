@@ -2,15 +2,13 @@
 
 # Yevhen Sabadash
 
-<a href="https://github.com/Zozopuzik">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=8AB4F8&center=true&vCenter=true&width=600&lines=Mobile+architect+%C2%B7+5+years+React+Native;Currently+writing+Swift+%26+SwiftUI;Open+to+senior+mobile+roles" alt="typing" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=8AB4F8&center=true&vCenter=true&width=620&lines=Mobile+architect+%C2%B7+full-stack+engineer;5+years+shipping+React+Native;Currently+writing+Swift+%26+SwiftUI" alt="typing" />
 
 <br /><br />
 
-<a href="mailto:evgen.sabadash1337@gmail.com"><img src="https://img.shields.io/badge/Email-evgen.sabadash1337%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:evgen.sabadash1337@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://t.me/zozopuzik"><img src="https://img.shields.io/badge/Telegram-%40zozopuzik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/zozopuzik"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Kyiv%2C%20Ukraine-1F2937?style=for-the-badge" />
 
@@ -18,11 +16,7 @@
 
 <br />
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### 🧭 &nbsp; About
+## &nbsp;🧭&nbsp;&nbsp;About
 
 Mobile architect and full-stack engineer. **5 years shipping production React Native apps** end-to-end — from MVP architecture to App Store release.
 
@@ -30,105 +24,90 @@ I specialise in **AI-driven mobile products** — vision-based food recognition,
 
 Right now I'm learning **Swift and SwiftUI** to deepen my native iOS work — first project [**Kubariki**](https://github.com/Zozopuzik/Kubarik), a Block Blast clone built in a weekend.
 
-</td>
-<td width="42%" valign="top">
+<br />
 
-### 📍 &nbsp; Now
+<div align="center">
 
-```yaml
-role:     Architect / Full-stack
-focus:    Mobile · AI · Web
-learning: Swift / SwiftUI
-shipped:  4+ apps on App Store
-based in: Kyiv, Ukraine 🇺🇦
-open to:  senior mobile roles
-```
+<img src="https://img.shields.io/badge/5%2B%20years-in%20mobile-1F2937?style=for-the-badge&labelColor=3B82F6" />
+&nbsp;
+<img src="https://img.shields.io/badge/6%2B%20apps-shipped-1F2937?style=for-the-badge&labelColor=8B5CF6" />
+&nbsp;
+<img src="https://img.shields.io/badge/4%2B%20AI-products-1F2937?style=for-the-badge&labelColor=EC4899" />
+&nbsp;
+<img src="https://img.shields.io/badge/10%2B%20MVPs-from%20zero-1F2937?style=for-the-badge&labelColor=F59E0B" />
 
-</td>
-</tr>
-</table>
+</div>
 
-<table>
-<tr>
-<td width="25%" align="center" valign="middle">
+<br />
 
-### 5+
-<sub>years in mobile</sub>
+## &nbsp;🚀&nbsp;&nbsp;Recently shipped
 
-</td>
-<td width="25%" align="center" valign="middle">
+### 🥗 &nbsp; AI Nutrition Tracker &nbsp;&nbsp;`2025 →`
 
-### 6+
-<sub>shipped apps</sub>
+Calorie & macro tracking with vision-based food recognition from photos. Production-ready CI/CD, paywalls, multi-language UI, offline-friendly UX.
 
-</td>
-<td width="25%" align="center" valign="middle">
-
-### 4+
-<sub>AI-integrated products</sub>
-
-</td>
-<td width="25%" align="center" valign="middle">
-
-### 10+
-<sub>MVPs from zero</sub>
-
-</td>
-</tr>
-</table>
-
-### 🚀 &nbsp; Recently shipped
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🥗 &nbsp; AI Nutrition Tracker** &nbsp;<sub>2025 →</sub><br />
-Calorie & macro tracking with vision-based food recognition from photos. RN/Expo, Supabase + Deno Edge Functions, Superwall paywalls, EAS Build + OTA, Apple & Google sign-in.
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 &nbsp; B2B AI Automation Platform** &nbsp;<sub>2024</sub><br />
-Workflow runner for AI agents. Next.js 15 + React 19, secure credentials vault, webhook triggers, streaming AI chat, Stripe billing, Kubernetes deploy.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📚 &nbsp; AI Language Learning Platform** &nbsp;<sub>2023</sub><br />
-Research-led MVP. RN + Firebase, Python AI engine, audio/transcript sync, offline mode — converts any audio / PDF / YouTube source into structured lessons.
-
-</td>
-<td width="50%" valign="top">
-
-**🛒 &nbsp; E-commerce Mobile App** &nbsp;<sub>2021</sub><br />
-End-to-end shop. RN, Zustand, local payment provider, postal delivery integration, push notifications, blog and multi-step checkout.
-
-</td>
-</tr>
-</table>
-
-### ⚙️ &nbsp; Stack
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,ts,swift,swiftui,js&theme=dark&perline=12" />
-
-**Web & backend**
-
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,supabase,firebase,docker,kubernetes&theme=dark&perline=12" />
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=expo,figma,git,github,vscode,xcode&theme=dark&perline=12" />
-
-**Services I work with regularly**<br />
-Supabase · Firebase · OpenAI · Stripe · RevenueCat · Superwall · OneSignal · AppsFlyer · TanStack Query · Zustand · MobX · Expo Router · n8n
+<img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/-Deno%20Edge-000000?style=flat-square&logo=deno&logoColor=white" />
+<img src="https://img.shields.io/badge/-Superwall-0F0F0F?style=flat-square" />
+<img src="https://img.shields.io/badge/-EAS%20Build-4630EB?style=flat-square&logo=expo&logoColor=white" />
 
 ---
 
+### 🤖 &nbsp; B2B AI Automation Platform &nbsp;&nbsp;`2024`
+
+Workflow runner for AI agents. Secure credentials vault, webhook triggers, streaming AI chat assistant, B2B billing with usage analytics.
+
+<img src="https://img.shields.io/badge/-Next.js%2015-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+
+---
+
+### 📚 &nbsp; AI Language Learning Platform &nbsp;&nbsp;`2023`
+
+Research-led MVP. Converts any audio / PDF / YouTube source into structured lessons via custom Python AI engine and audio-transcript sync. Full offline mode.
+
+<img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+---
+
+### 🛒 &nbsp; E-commerce Mobile App &nbsp;&nbsp;`2021`
+
+End-to-end shop — catalog, cart, multi-step checkout, push notifications, blog. Deep linking, payment provider integration, postal delivery API.
+
+<img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/-Zustand-DAB785?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/-OneSignal-E54B4D?style=flat-square&logo=onesignal&logoColor=white" />
+
+<br />
+
+## &nbsp;⚙️&nbsp;&nbsp;Stack
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,ts,swift,swiftui,js&theme=dark&perline=12" alt="React, TypeScript, Swift, SwiftUI, JavaScript" />
+
+**Web & backend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,supabase,firebase,docker,kubernetes&theme=dark&perline=12" alt="Next.js, Node, Postgres, Supabase, Firebase, Docker, Kubernetes" />
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=expo,figma,git,github,vscode,xcode&theme=dark&perline=12" alt="Expo, Figma, Git, GitHub, VS Code, Xcode" />
+
+**Also use regularly** &nbsp;·&nbsp; Stripe · RevenueCat · Superwall · OneSignal · AppsFlyer · TanStack Query · Zustand · MobX · Expo Router · OpenAI APIs
+
+<br />
+
 <div align="center">
-  <sub>UA & EU timezones · English fluent · Open to remote and relocation</sub>
+<sub>UA & EU timezones &nbsp;·&nbsp; English fluent &nbsp;·&nbsp; Open to remote and relocation</sub>
 </div>
