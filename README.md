@@ -22,7 +22,7 @@ Mobile architect and full-stack engineer. **5 years shipping production React Na
 
 I specialise in **AI-driven mobile products** — vision-based food recognition, pose detection, custom audio/speech engines for language learning. Comfortable across the stack: RN/Next.js front, Supabase/Firebase back, Docker/K8s deploy.
 
-Right now I'm learning **Swift and SwiftUI** to deepen my native iOS work — first project [**Kubariki**](https://github.com/Zozopuzik/Kubarik), a Block Blast clone built in a weekend.
+Right now I'm learning **Swift and SwiftUI** to deepen my native iOS work — first project [**Kubariki**](https://github.com/Zozopuzik/Kubarik), a cozy block-puzzle game built in a weekend.
 
 <br />
 
