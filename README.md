@@ -1,71 +1,134 @@
 <div align="center">
 
-# hey, I'm Yevhen &nbsp;👋
+# Yevhen Sabadash
+
+<a href="https://github.com/Zozopuzik">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=8AB4F8&center=true&vCenter=true&width=600&lines=Mobile+architect+%C2%B7+5+years+React+Native;Currently+writing+Swift+%26+SwiftUI;Open+to+senior+mobile+roles" alt="typing" />
+</a>
+
+<br /><br />
+
+<a href="mailto:evgen.sabadash1337@gmail.com"><img src="https://img.shields.io/badge/Email-evgen.sabadash1337%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://t.me/zozopuzik"><img src="https://img.shields.io/badge/Telegram-%40zozopuzik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Kyiv%2C%20Ukraine-1F2937?style=for-the-badge" />
 
 </div>
 
+<br />
+
 <table>
-<tr>
-<td colspan="2" align="center">
-
-### Senior React Native engineer &nbsp;·&nbsp; currently diving into Swift
-
-</td>
-</tr>
 <tr>
 <td width="58%" valign="top">
 
-#### 🧭 &nbsp; About
+### 🧭 &nbsp; About
 
-5 years shipping production **React Native** apps as a senior engineer — payments, social, real-time. I care about smooth feel, tight feedback loops, and design-led mobile work.
+Mobile architect and full-stack engineer. **5 years shipping production React Native apps** end-to-end — from MVP architecture to App Store release.
 
-Right now I'm **learning Swift and SwiftUI from scratch** the way I learn best — by building. First was [**Kubariki**](https://github.com/Zozopuzik/Kubarik), a Block Blast clone built in one weekend to get my hands dirty on iOS.
+I specialise in **AI-driven mobile products** — vision-based food recognition, pose detection, custom audio/speech engines for language learning. Comfortable across the stack: RN/Next.js front, Supabase/Firebase back, Docker/K8s deploy.
 
-Small teams. Fast iteration. Learning by shipping.
+Right now I'm learning **Swift and SwiftUI** to deepen my native iOS work — first project [**Kubariki**](https://github.com/Zozopuzik/Kubarik), a Block Blast clone built in a weekend.
 
 </td>
 <td width="42%" valign="top">
 
-#### 📍 &nbsp; Now
+### 📍 &nbsp; Now
 
 ```yaml
-role:     Senior RN engineer
-learning: Swift / SwiftUI / iOS
-building: Kubariki — Block Blast clone
-open to:  mobile & full-stack roles
-based in: Ukraine 🇺🇦
+role:     Architect / Full-stack
+focus:    Mobile · AI · Web
+learning: Swift / SwiftUI
+shipped:  4+ apps on App Store
+based in: Kyiv, Ukraine 🇺🇦
+open to:  senior mobile roles
 ```
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td colspan="2" valign="top">
+<td width="25%" align="center" valign="middle">
 
-#### ⚙️ &nbsp; Stack
-
-**Mobile**
-<br />
-<img src="https://skillicons.dev/icons?i=swift,swiftui,react,ts,js&theme=dark&perline=12" alt="Swift, SwiftUI, React (Native), TypeScript, JavaScript" />
-
-**Backend & data**
-<br />
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,graphql&theme=dark&perline=12" alt="Node.js, PostgreSQL, Supabase, GraphQL" />
-
-**Design & tooling**
-<br />
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,xcode&theme=dark&perline=12" alt="Figma, Git, GitHub, VS Code, Xcode" />
+### 5+
+<sub>years in mobile</sub>
 
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<td width="25%" align="center" valign="middle">
 
-#### 📬 &nbsp; Reach me
+### 6+
+<sub>shipped apps</sub>
 
-<a href="mailto:evgen.sabadash1337@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-evgen.sabadash1337%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://t.me/zozopuzik"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%40zozopuzik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</td>
+<td width="25%" align="center" valign="middle">
+
+### 4+
+<sub>AI-integrated products</sub>
+
+</td>
+<td width="25%" align="center" valign="middle">
+
+### 10+
+<sub>MVPs from zero</sub>
 
 </td>
 </tr>
 </table>
+
+### 🚀 &nbsp; Recently shipped
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🥗 &nbsp; AI Nutrition Tracker** &nbsp;<sub>2025 →</sub><br />
+Calorie & macro tracking with vision-based food recognition from photos. RN/Expo, Supabase + Deno Edge Functions, Superwall paywalls, EAS Build + OTA, Apple & Google sign-in.
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 &nbsp; B2B AI Automation Platform** &nbsp;<sub>2024</sub><br />
+Workflow runner for AI agents. Next.js 15 + React 19, secure credentials vault, webhook triggers, streaming AI chat, Stripe billing, Kubernetes deploy.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📚 &nbsp; AI Language Learning Platform** &nbsp;<sub>2023</sub><br />
+Research-led MVP. RN + Firebase, Python AI engine, audio/transcript sync, offline mode — converts any audio / PDF / YouTube source into structured lessons.
+
+</td>
+<td width="50%" valign="top">
+
+**🛒 &nbsp; E-commerce Mobile App** &nbsp;<sub>2021</sub><br />
+End-to-end shop. RN, Zustand, local payment provider, postal delivery integration, push notifications, blog and multi-step checkout.
+
+</td>
+</tr>
+</table>
+
+### ⚙️ &nbsp; Stack
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,ts,swift,swiftui,js&theme=dark&perline=12" />
+
+**Web & backend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,supabase,firebase,docker,kubernetes&theme=dark&perline=12" />
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=expo,figma,git,github,vscode,xcode&theme=dark&perline=12" />
+
+**Services I work with regularly**<br />
+Supabase · Firebase · OpenAI · Stripe · RevenueCat · Superwall · OneSignal · AppsFlyer · TanStack Query · Zustand · MobX · Expo Router · n8n
+
+---
+
+<div align="center">
+  <sub>UA & EU timezones · English fluent · Open to remote and relocation</sub>
+</div>
